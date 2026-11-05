@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-affiliate-management-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-affiliate-management",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-affiliate-management-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/affiliate-management.md",
+  "presentationPlan": "projects/crm/nuxt/affiliate-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
